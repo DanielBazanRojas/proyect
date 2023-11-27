@@ -1,4 +1,4 @@
-const MainProducts = () => {
+const MainCenter = () => {
   return (
     <main className="bg-[#222]">
       <article>
@@ -59,4 +59,4 @@ const MainProducts = () => {
     </main>
   );
 };
-export default MainProducts;
+export default MainCenter;

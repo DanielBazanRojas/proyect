@@ -1,12 +1,11 @@
-import LogoTechtrends from "@/assets/images/TechTrends-3.svg";
-import MainHeader from "./components/header/main-header";
-import MainProducts from "./components/productos/main-products";
-import MainFooter from "./components/footer/main-footer";
+import MainHeader from "./components/pages/main-header";
+import MainCenter from "./components/pages/main-center";
+import MainFooter from "./components/pages/main-footer";
 const App = () => {
   return (
     <>
       <MainHeader />
-      <MainProducts />
+      <MainCenter />
       <MainFooter />
     </>
   );
