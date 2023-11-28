@@ -1,12 +1,30 @@
-import MainHeader from "./components/pages/main-header";
-import MainCenter from "./components/pages/main-center";
-import MainFooter from "./components/pages/main-footer";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Home from "./routes/home.jsx";
+import ProductosPage from "./routes/productos-page.jsx";
+import ErrorElement from "./routes/error-element.jsx";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Home />,
+    errorElement: <ErrorElement />,
+  },
+  {
+    path: "/productos",
+    element: <ProductosPage />,
+    children: [
+      {
+        path: "/productos/ofertas",
+        element: <ProductosPage />,
+      },
+    ],
+  },
+]);
+
 const App = () => {
   return (
     <>
-      <MainHeader />
-      <MainCenter />
-      <MainFooter />
+      <RouterProvider router={router} />
     </>
   );
 };
