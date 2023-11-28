@@ -5,7 +5,7 @@ import SubNavMenu2 from "../nav-elements/sub2-nav-menu";
 import SubNavMenu from "../nav-elements/sub-nav-menu";
 const MainHeader = () => {
   return (
-    <header className="grid w-[100vw]">
+    <header>
       <NavPrincipal />
       <SubNavMenu />
       <SubNavMenu2 />

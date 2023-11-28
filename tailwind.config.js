@@ -7,6 +7,9 @@ export default {
       fontFamily: {
         sans: ['"Inter"', ...defaultTheme.fontFamily.sans],
       },
+      aspectRatio: {
+        "4/3": "4 / 3",
+      },
     },
     plugins: [],
   },

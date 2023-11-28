@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Teclados",
+      "src": "https://th.bing.com/th/id/R.ca9201997024ff1e25a6236351df33d6?rik=laqrYg9stLDLKw&riu=http%3a%2f%2ftop10mejores.com%2fwp-content%2fuploads%2f2015%2f10%2f10-teclados-gamers-10-Mejores-Teclados-para-Gamers.jpg&ehk=Mtjs8nWiOI4ETxES6tjJOWZVfp8ltTVYVOdnceqguQs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 1,
+      "nombre": "Mouse Gamers",
+      "src": "https://th.bing.com/th/id/OIP.eoS-k0ZgSYfSr_8-7fZM6gHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "nombre": "Monitores",
+      "src": "https://th.bing.com/th/id/OIP.tDwbgXZzrCPZYn320yq4twHaDt?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 3,
+      "nombre": "Auriculares",
+      "src": "https://th.bing.com/th/id/R.ffd057d5d95578090a885ffc851d5119?rik=zua9g0xQ6xbtNQ&riu=http%3a%2f%2fblog.soltekonline.com%2fcontent%2fimages%2f2018%2f12%2fdownload2-2.jpg&ehk=kkQ4GAaoddtgFMJVfuBHHYj6UJygwRnR6vHbxVsmHYU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 4,
+      "nombre": "Mas Productos",
+      "src": "https://th.bing.com/th/id/R.fc622e15b7a6713613a61dd60826204e?rik=Nu1zPCOfHiu7rw&pid=ImgRaw&r=0"
+    }
+  ]
+}

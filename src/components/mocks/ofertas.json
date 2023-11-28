@@ -1,0 +1,28 @@
+{
+    "ofertas": [
+      {
+        "id": 0,
+        "nombre": "Ideal para Dibujo",
+        "src": "https://axa.com.ar/webaxa/12716/tableta-digitalizadora-wacom-intuos-basic-ctl4100.jpg",
+        "precio": "S/. 500"
+      },
+      {
+        "id": 1,
+        "nombre": "Para matar el Aburrimiento",
+        "src": "https://www.impulsegamer.com/articles/wp-content/uploads/2020/11/ps5conole.jpg",
+        "precio": "S/. 2000"
+      },
+      {
+        "id": 2,
+        "nombre": "Abre los Ojos a estas ofertas",
+        "src": "https://www.zonatech.es/wp-content/uploads/2020/04/Monitor-gaming-0-AlexandruaceaTMkrN9QZERw.jpg",
+        "precio": "S/. 400"
+      },
+      {
+        "id": 3,
+        "nombre": "Arma tu PC Gamer",
+        "src": "https://infopcgamer.com/wp-content/uploads/2020/10/compatibilidad-de-componentes-de-pc.jpg",
+        "precio": "S/. 1700"
+      }
+    ]
+  }

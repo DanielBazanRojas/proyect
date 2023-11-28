@@ -1,0 +1,50 @@
+
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Juegos",
+        "identificador": "games"
+    },
+    {
+        "id": 2,
+        "nombre": "Decoracion",
+        "identificador": "decoration"
+    },
+    {
+        "id": 3,
+        "nombre": "Laptops",
+        "identificador": "laptops"
+    },
+    {
+        "id": 4,
+        "nombre": "Tabletas Gráficas",
+        "identificador": "tablets"
+    },
+    {
+        "id": 5,
+        "nombre": "Smartphones",
+        "identificador": "smartphones"
+    },
+    {
+        "id": 6,
+        "nombre": "Auriculares",
+        "identificador": "headphones"
+    },
+    {
+        "id": 7,
+        "nombre": "Componentes",
+        "identificador": "components"
+    },
+    {
+        "id": 8,
+        "nombre": "En Oferta",
+        "identificador": "offer"
+    },
+    {
+        "id": 9,
+        "nombre": "Mas",
+        "identificador": "more"
+    }
+  ]
+}
