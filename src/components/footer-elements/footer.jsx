@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div className="flex justify-around text-[#fff] bg-[#232F3E]">
       <div className="flex flex-col gap-3 justify-center">
-        <div className="flex gap-5 font-semibold">
+        <div className="flex gap-5 font-semibold border-t-2 w-auto pt-5">
           <span className="hover:text-gray-300 hover:cursor-pointer">
             Información Legal
           </span>
@@ -19,8 +19,7 @@ const Footer = () => {
         <img src="/src/assets/images/logo-blanco.png" alt="logo blanco" />
       </div>
       <div className="flex flex-col justify-center">
-        <div></div>
-        <div className="flex gap-8 border-t-2 w-[27vw] justify-center pt-5">
+        <div className="flex gap-8 border-t-2 w-auto justify-center pt-5">
           <div className="flex flex-col">
             <strong className="hover:text-gray-300 hover:cursor-pointer">
               Contactanos

@@ -4,24 +4,28 @@
         "id": 0,
         "nombre": "Ideal para Dibujo",
         "src": "https://axa.com.ar/webaxa/12716/tableta-digitalizadora-wacom-intuos-basic-ctl4100.jpg",
+        "ref": "https://www.amazon.es/Wacom-Intuos-Pro-Tableta-Bluetooth/dp/B01N7IU215/ref=sr_1_12?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=393C4WQOEUP4Q&",
         "precio": "S/. 500"
       },
       {
         "id": 1,
         "nombre": "Para matar el Aburrimiento",
         "src": "https://www.impulsegamer.com/articles/wp-content/uploads/2020/11/ps5conole.jpg",
+        "ref": "https://www.amazon.com/-/es/PlayStation-5-Console-CFI-1102A/dp/B09DFCB66S",
         "precio": "S/. 2000"
       },
       {
         "id": 2,
         "nombre": "Abre los Ojos a estas ofertas",
-        "src": "https://www.zonatech.es/wp-content/uploads/2020/04/Monitor-gaming-0-AlexandruaceaTMkrN9QZERw.jpg",
+        "src": "https://1.bp.blogspot.com/-Tx88VrO_9xs/XOhKNxG8UAI/AAAAAAAAA6Y/woHzevKvskoK6ZvmdQDdCOx03MOUV0YtQCLcBGAs/s640/setup-gamer-5bdc7e0a1c6b0.jpg",
+        "ref": "https://www.amazon.com/-/es/herramienta-reparaci%C3%B3n-limpiador-electr%C3%B3nica-auriculares/dp/B0BRXZV6R2/ref=sr_1_4?crid=3823E4GD8WOIQ&",
         "precio": "S/. 400"
       },
       {
         "id": 3,
         "nombre": "Arma tu PC Gamer",
         "src": "https://infopcgamer.com/wp-content/uploads/2020/10/compatibilidad-de-componentes-de-pc.jpg",
+        "ref": "https://www.amazon.com/-/es/compacta-refrigeraci%C3%B3n-avanzada-iluminaci%C3%B3n-ZT-D40620F-10M/dp/B0CMJQZQC6/ref=sr_1_86?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=SZ1BQPBKJRUW&",
         "precio": "S/. 1700"
       }
     ]

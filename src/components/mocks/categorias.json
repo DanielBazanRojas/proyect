@@ -2,49 +2,54 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "nombre": "Juegos",
-        "identificador": "games"
+        "id": 1,
+        "nombre": "Smartphones",
+        "identificador": "SMARTPHONES"
     },
     {
         "id": 2,
-        "nombre": "Decoracion",
-        "identificador": "decoration"
+        "nombre": "Laptops",
+        "identificador": "LAPTOPS"
     },
     {
         "id": 3,
-        "nombre": "Laptops",
-        "identificador": "laptops"
+        "nombre": "Juegos",
+        "identificador": "JUEGOS"
     },
     {
         "id": 4,
-        "nombre": "Tabletas Gráficas",
-        "identificador": "tablets"
+        "nombre": "Tabletas",
+        "identificador": "TABLETS"
     },
     {
         "id": 5,
-        "nombre": "Smartphones",
-        "identificador": "smartphones"
+        "nombre": "Auriculares",
+        "identificador": "AURICULARES"
     },
     {
         "id": 6,
-        "nombre": "Auriculares",
-        "identificador": "headphones"
+        "nombre": "Hardware",
+        "identificador": "COMPONENTES"
     },
     {
         "id": 7,
-        "nombre": "Componentes",
-        "identificador": "components"
+        "nombre": "Decoraciones",
+        "identificador": "DECORACIONES"
     },
     {
         "id": 8,
-        "nombre": "En Oferta",
-        "identificador": "offer"
+        "nombre": "Teclados",
+        "identificador": "TECLADOS"
     },
     {
         "id": 9,
-        "nombre": "Mas",
-        "identificador": "more"
+        "nombre": "Mouse",
+        "identificador": "MOUSE"
+    },
+    {
+        "id": 10,
+        "nombre": "Monitores",
+        "identificador": "MONITORES"
     }
   ]
 }

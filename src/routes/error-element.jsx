@@ -4,8 +4,8 @@ import MainFooter from "../components/pages/main-footer";
 const ErrorElement = () => {
   return (
     <>
-      <ErrorBody />
-      <MainFooter />
+      <ErrorBody className="h-[auto]" />
+      <MainFooter className="self-end" />
     </>
   );
 };

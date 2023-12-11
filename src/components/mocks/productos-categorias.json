@@ -1,0 +1,372 @@
+{
+  "SMARTPHONES": [
+    {
+      "id": 1,
+      "nombre": "Iphone 14 Plus",
+      "marca": "Apple",
+      "ref": "https://www.apple.com/la/iphone-14/specs/",
+      "src": "https://i.blogs.es/be13bf/1366_2000/500_500.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Galaxy S21 Fe",
+      "marca": "Samsung",
+      "ref": "https://www.samsung.com/pe/smartphones/galaxy-s/galaxy-s21-fe-5g-graphite-128gb-sm-g990ezaaltp/",
+      "src": "https://images.hothardware.com/contentimages/article/3172/content/1x1_1200x1200_highres-samsung-galaxy-s21-fe-5g-back-side-view.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "12 Pro",
+      "marca": "Xiaomi",
+      "ref": "https://xiaomiperu.com/xiaomi-12-pro-12gb-256gb-gray",
+      "src": "https://i.blogs.es/c2f193/xiaomi-12-pro-9/1366_2000.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "8s Pro",
+      "marca": "RedMagic",
+      "ref": "https://global.redmagic.gg/es/pages/redmagic-8s-pro",
+      "src": "https://http2.mlstatic.com/D_Q_NP_948768-MLA71072376741_082023-O.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "GT3",
+      "marca": "Realme",
+      "ref": "https://www.realme.com/mea-en/realme-gt-3",
+      "src": "https://i.blogs.es/432e9e/senna_scenepic_parta-4/1366_2000.jpeg"
+    }
+  ],
+  "LAPTOPS": [
+    {
+      "id": 1,
+      "nombre": "MacBook Pro 13",
+      "marca": "Apple",
+      "ref": "https://www.apple.com/la/macbook-pro/",
+      "src": "https://tecnologiagamers.com.pe/wp-content/uploads/2022/03/D_NQ_NP_698081-MCO40151003599_122019-O.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Yoga Slim 7i Pro",
+      "marca": "Lenovo",
+      "ref": "https://www.lenovo.com/pe/es/laptops/yoga/yoga-slim-series/Yoga-Slim-7-Pro-14ITL5/p/WMD00000492?orgRef=https%253A%252F%252Fwww.google.com%252F",
+      "src": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/03/yoga-7-8-1-1024x576.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Rog Strix G15",
+      "marca": "Asus",
+      "ref": "https://rog.asus.com/pe/laptops/rog-strix/rog-strix-g15-2022-series/",
+      "src": "https://cybershack.com.au/wp-content/uploads/2022/08/ASUS-RGOS-header-1.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Nitro 5",
+      "marca": "Acer",
+      "ref": "https://www.acer.com/es-es/laptops/nitro/nitro-5",
+      "src": "https://laptopmedia.com/wp-content/uploads/2021/09/eleventh.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Omen 17",
+      "marca": "HP",
+      "ref": "https://www.omen.com/es/es/laptops/omen-17.html",
+      "src": "https://www.pcworld.com/wp-content/uploads/2023/04/hp_omen_laptops_midair-100724990-orig.jpg?quality=50&strip=all&w=1024"
+    }
+  ],
+  "JUEGOS": [
+    {
+      "id": 1,
+      "nombre": "Ragnarok",
+      "marca": "God of War",
+      "ref": "https://www.playstation.com/es-pe/games/god-of-war-ragnarok/",
+      "src": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Village",
+      "marca": "Resident Evil",
+      "ref": "https://www.residentevil.com/village/es/",
+      "src": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+    },
+    {
+      "id": 3,
+      "nombre": "FC 24",
+      "marca": "FIFA",
+      "ref": "https://www.ea.com/es-es/games/ea-sports-fc/fc-24",
+      "src": "https://i.blogs.es/acdb29/ea-sports-fc-24-como-jugar-antes-el-nuevo-fifa-24-te-decimos-a-que-hora-es-el-lanzamiento-del-juego-de-futbol-de-ea-sports/1366_2000.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "GTA V",
+      "marca": "GTA",
+      "ref": "https://www.rockstargames.com/es/gta-v",
+      "src": "https://m.media-amazon.com/images/I/91T0XQv8gEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "MK11",
+      "marca": "Mortal Kombat",
+      "ref": "https://mk11.mortalkombat.com/es-MX",
+      "src": "https://storegamesperu.com/files/images/productos/1605819293-mortal-kombat-11-ultimate-ps4.jpg"
+    }
+  ],
+  "TABLETS": [
+    {
+      "id": 1,
+      "nombre": "Galaxy Tab S8",
+      "marca": "Samsung",
+      "ref": "https://www.samsung.com/pe/tablets/galaxy-tab-s8/buy/",
+      "src": "https://www.cnet.com/a/img/resize/5e95ced30f5208b3f9e728f035f71f9044db8d25/hub/2022/04/05/b2bb78de-5207-4e54-96b2-bdb69ae21883/samsung-galaxy-tab-s8-plus-08.jpg?auto=webp&fit=crop&height=900&precrop=5144,2893,x0,y0&width=1200"
+    },
+    {
+      "id": 2,
+      "nombre": "iPad Air 2022",
+      "marca": "Apple",
+      "ref": "https://www.apple.com/la/ipad-air/",
+      "src": "https://mysterio.yahoo.com/api/res/1.2/MKu8fvzEsdxbGdkCKJuMBA--/ZHByPTI7dz04NzU7YXBwaWQ9ZW5nYWRnZXQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/548fd670-a47e-11ec-b9ef-ef1d74d381f2.cf.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "OnePlus Pad",
+      "marca": "OnePlus",
+      "ref": "https://www.oneplus.com/es/oneplus-pad",
+      "src": "https://beebom.com/wp-content/uploads/2023/05/oneplus-pad-cant-beat-the-ipad-featured.jpg?w=750&quality=75"
+    },
+    {
+      "id": 4,
+      "nombre": "Pad 5",
+      "marca": "Xiaomi",
+      "ref": "https://xiaomiperu.com/xiaomi-pad-5-eu-6gb-256gb-pearl-white",
+      "src": "https://www.gizmochina.com/wp-content/uploads/2023/06/Xiaomi-Pad-6-with-Keyboard-and-Smart-Pen.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Tab P12 Pro",
+      "marca": "Lenovo",
+      "ref": "https://www.lenovo.com/pe/es/tablets/android-tablets/lenovo-tab-series/Lenovo-Tab-P12-Pro/p/LEN103L0008?tab=tab-reviews&cid=pe:sem:pmax|se|google|pmax+todos+los+productos|grupo+de+anuncios|||18136787670|||pmax|mixed|all&gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6Uu-MBoRlD1HTytsE7Xvy8CEilKX1_VTli8ZucVtShcRV4PfpCX69GBoClSsQAvD_BwE",
+      "src": "https://imgmedia.libero.pe/652x359/libero/original/2022/09/29/6335e3f2d6168e2113320962.webp"
+    }
+  ],
+  "AURICULARES": [
+    {
+      "id": 1,
+      "nombre": "Artics Pro",
+      "marca": "SteelSeries",
+      "ref": "https://es.steelseries.com/gaming-headsets/arctis-pro",
+      "src": "https://i.linio.com/p/2c5246df538b7797b3037a1b1e57cfdc-product.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "G533",
+      "marca": "Logitech",
+      "ref": "https://www.logitechg.com/es-mx/products/gaming-audio/g533-wireless-gaming-headset.html",
+      "src": "https://static2.nordic.pictures/40235809-thickbox_default/logitech-g533.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Blackshark V2",
+      "marca": "Razer",
+      "ref": "https://www.razer.com/latam-es/gaming-headsets/razer-blackshark-v2",
+      "src": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/r/a/razer_blackshark_audifonos.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Nari Ultimate",
+      "marca": "Razer",
+      "ref": "https://www.razer.com/latam-es/gaming-headsets/razer-nari-ultimate",
+      "src": "https://blizzstoreperu.com/cdn/shop/products/NARI-WIRELESS.jpg?v=1620073453"
+    },
+    {
+      "id": 5,
+      "nombre": "Gaming A50",
+      "marca": "Astro",
+      "ref": "https://www.astrogaming.com/es-roam",
+      "src": "https://oechsle.vteximg.com.br/arquivos/ids/15366329-1500-1500/image-0.jpg?v=638282697507630000"
+    }
+  ],
+  "COMPONENTES": [
+    {
+      "id": 1,
+      "nombre": "R5-7600X",
+      "marca": "AMD Ryzen",
+      "ref": "https://www.amd.com/es/products/cpu/amd-ryzen-5-7600x",
+      "src": "https://www.bhphotovideo.com/images/images750x750/amd_100_100000593wof_ryzen_5_7600x_six_core_1723471.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "i9-13900K",
+      "marca": "Intel",
+      "ref": "https://www.intel.la/content/www/xl/es/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html",
+      "src": "https://http2.mlstatic.com/D_NQ_NP_880815-MLA52221636945_102022-O.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "RTX 4070",
+      "marca": "Nvidia",
+      "ref": "https://www.nvidia.com/es-es/geforce/graphics-cards/40-series/rtx-4070-4070ti/",
+      "src": "https://pcper.com/wp-content/uploads/2023/04/nvidia-geforce-rtx-4070-fe-pcper-review-02507.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "SN770M NVMe",
+      "marca": "WD Black",
+      "ref": "https://www.westerndigital.com/es-es/products/internal-drives/wd-black-sn770m-nvme-ssd?sku=WDBDNH5000ABK-WRSN",
+      "src": "https://www.pcworld.com/wp-content/uploads/2023/10/wd-black-sn770m-solo-with-box.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "id": 5,
+      "nombre": "H510 Flow",
+      "marca": "NZXT",
+      "ref": "https://nzxt.com/product/h510-flow",
+      "src": "https://www.datocms-assets.com/34299/1666138830-h5-flow-hero-white.png?auto=format&bg64=I2Y2ZjZmOQ&fit=crop&h=700&w=700"
+    }
+  ],
+  "DECORACIONES": [
+    {
+      "id": 1,
+      "nombre": "Suculentas",
+      "marca": "Plantas",
+      "ref": "https://www.amazon.com/-/es/Plantas-suculentas-artificiales-surtido-decorativos/dp/B07S6R7SDW/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3PS6BEWRD2XGV&keywords=suculentas&qid=1702144257&sprefix=suculentas%2Caps%2C168&sr=8-9",
+      "src": "https://editorialtelevisa.brightspotcdn.com/dims4/default/b1ae293/2147483647/strip/true/crop/995x560+3+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2019%2F11%2Fsuculentas-en-la-cocina.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Flor de Minecraft",
+      "marca": "Lampara",
+      "ref": "https://www.amazon.com/-/es/Minecraft-Daisy-Poppy-Flower-coleccionables/dp/B07NRZ5227/ref=sr_1_59?crid=3549W9JKZPCL9&keywords=decoraciones+para+setup+gamer&qid=1702144400&sprefix=decoraciones+para+set+%2Caps%2C193&sr=8-59",
+      "src": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61Wrot1yF-L._AC_SX679_.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Iluminacion RGB",
+      "marca": "Luces",
+      "ref": "https://www.amazon.com/-/es/iluminaci%C3%B3n-sincronizaci%C3%B3n-jugadores-decoraci%C3%B3n-configuraci%C3%B3n/dp/B09LR6F47V/ref=sr_1_104?crid=3549W9JKZPCL9&keywords=decoraciones+para+setup+gamer&qid=1702144832&sprefix=decoraciones+para+set+%2Caps%2C193&sr=8-104",
+      "src": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61kFwgWUN+L._AC_SY741_.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Letrero LED",
+      "marca": "Neon",
+      "ref": "https://www.amazon.com/-/es/personalizada-decoraci%C3%B3n-personalizable-cambiantes-dormitorio/dp/B0BMXGS52T/ref=sr_1_101?crid=3549W9JKZPCL9&keywords=decoraciones%2Bpara%2Bsetup%2Bgamer&qid=1702147461&sprefix=decoraciones%2Bpara%2Bset%2B%2Caps%2C193&sr=8-101&th=1",
+      "src": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51tGpC9450L._AC_SX679_.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Poster Retro",
+      "marca": "Póster",
+      "ref": "https://www.amazon.com/-/es/P%C3%B3ster-videojuegos-decoraci%C3%B3n-habitaci%C3%B3n-pulgadas/dp/B0BW3R9ZCH/ref=sr_1_105?crid=3549W9JKZPCL9&keywords=decoraciones%2Bpara%2Bsetup%2Bgamer&qid=1702147461&sprefix=decoraciones%2Bpara%2Bset%2B%2Caps%2C193&sr=8-105&th=1",
+      "src": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81cx+QQ17kL._AC_SX679_.jpg"
+    }
+  ],
+  "TECLADOS": [
+    {
+      "id": 1,
+      "nombre": "K70 MK2 RGB",
+      "marca": "Corsair",
+      "ref": "https://www.corsair.com/es/es/p/keyboards/ch-9109010-es/k70-rgb-mk-2-mechanical-gaming-keyboard-cherry-mx-red-es-ch-9109010-es",
+      "src": "https://cyccomputer.pe/42482-large_default/teclado-corsair-k70-rapi-fire-rgb-mk2-mecanico-switch-cherry-mx-espanol-pnch-9109018-sp.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "G Pro RGB",
+      "marca": "Logitech",
+      "ref": "https://www.oechsle.pe/teclado-mecanico-logitech-g-pro-gamer-keyboard-gx-blues-lightsync-rgb-sin-numerico---920-009388-1000212663/p",
+      "src": "https://oechsle.vteximg.com.br/arquivos/ids/7324469-1000-1000/imageUrl_2.jpg?v=637810641594700000"
+    },
+    {
+      "id": 3,
+      "nombre": "alloy Origins 60%",
+      "marca": "HyperX",
+      "ref": "https://row.hyperx.com/collections/gaming-keyboards/products/hyperx-alloy-origins-60-mechanical-gaming-keyboard?variant=40685683802317",
+      "src": "https://mmstoreperu.com/cdn/shop/products/HyperX_Alloy_Origins_60_Russian_3_angled_right_HyperX_Alloy_Origins_60_Russian_3_angled_right_24_06_202110_28_800x.jpg?v=1667496220"
+    },
+    {
+      "id": 4,
+      "nombre": "Blackwidow V4 X",
+      "marca": "Razer",
+      "ref": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-x",
+      "src": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/t/e/teclado_razer_blackwidow_v4_x_1_.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Kumara K552 RGB",
+      "marca": "Redragon",
+      "ref": "https://redragon.es/products/best-seller/kumara-k552/?color=black%20rgb&size=",
+      "src": "https://cyccomputer.pe/32461-home_default/teclado-redragon-kumara-k552b-rgb-black-switch-red-espanol.jpg"
+    }
+  ],
+  "MOUSE": [
+    {
+      "id": 1,
+      "nombre": "Rival 3",
+      "marca": "SteelSeries",
+      "ref": "https://es.steelseries.com/gaming-mice/rival-3",
+      "src": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/s/t/steelseries_mouse_rival_3.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "G502 Hero",
+      "marca": "Logitech",
+      "ref": "https://www.logitechg.com/es-roam/products/gaming-mice/g502-hero-gaming-mouse.910-005550.html",
+      "src": "https://www.efe.com.pe/media/catalog/product/g/5/g502ligthspeed_1_yuskmxoyw5qo6olj.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "id": 3,
+      "nombre": "Storm Elite",
+      "marca": "Redragon",
+      "ref": "https://redragon.es/products/best-seller/storm-elite-m988-rgb/",
+      "src": "https://oechsle.vteximg.com.br/arquivos/ids/8831041-1000-1000/imageUrl_2.jpg?v=637890458455930000"
+    },
+    {
+      "id": 4,
+      "nombre": "Vaper Mini",
+      "marca": "Razer",
+      "ref": "https://www.razer.com/gaming-mice/Razer-Viper-Mini/RZ01-03250100-R3M1",
+      "src": "https://sevenfiguarts.com.pe/wp-content/uploads/2023/01/mouse-razer-viper-mini-2.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Hero",
+      "marca": "VSG",
+      "ref": "https://pe.vsglatam.com/products/hero",
+      "src": "https://http2.mlstatic.com/D_Q_NP_787633-MLA47443011439_092021-O.webp"
+    }
+  ],
+  "MONITORES": [
+    {
+      "id": 1,
+      "nombre": "Odyssey G5",
+      "marca": "Samsung",
+      "ref": "https://www.samsung.com/latin/monitors/gaming/odyssey-g5-gaming-monitor-with-1000r-curved-screen-27-inch-lc27g55tqwlxzp/",
+      "src": "https://oechsle.vteximg.com.br/arquivos/ids/15434577-1000-1000/image-087762e3839642a0ad0abf85be40846f.jpg?v=638284940407830000"
+    },
+    {
+      "id": 2,
+      "nombre": "Q27G2E/BK",
+      "marca": "AOC",
+      "ref": "https://aoc.com/es/gaming/products/monitors/q27g2e",
+      "src": "https://www.westbrookcomputers.co.uk/34180-large_default/aoc-27-3-side-frameless-qhd-gaming-monitor-q27g2e-bk-2560-x-1440-1ms-2-hdmi-dp-155hz-freesync-6-game-modes-vesa.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "G27CQ4 E2",
+      "marca": "MSI",
+      "ref": "https://www.msi.com/Monitor/G27CQ4-E2",
+      "src": "https://asset.msi.com/resize/image/global/product/product_16521656761abc71140df42db5641f457ec8138adc.png62405b38c58fe0f07fcef2367d8a9ba1/600.png"
+    },
+    {
+      "id": 4,
+      "nombre": "27GR75Q-B",
+      "marca": "LG",
+      "ref": "https://www.lg.com/co/monitores/gaming/27gr75q-b/",
+      "src": "https://m.media-amazon.com/images/I/41Xw6ojZKXL.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "32GN650-B",
+      "marca": "LG",
+      "ref": "https://www.lg.com/co/monitores/gaming/32gn650-b/",
+      "src": "https://oechsle.vteximg.com.br/arquivos/ids/12621076-1000-1000/imageUrl_2.jpg?v=638050054758230000"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import { Ofertas } from "../landing-elements/ofertas";
 const MainCenter = () => {
   return (
     <main className="bg-[#222]">
-      <article>
+      <article className="px-8">
         <span className="flex text-white text-2xl font-bold p-5">
           Algunos de nuestros productos
         </span>

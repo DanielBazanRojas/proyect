@@ -1,20 +1,32 @@
+import { Link } from "react-router-dom";
+
 const SubNavMenu = () => {
   return (
     <nav
-      className="flex mx-5 my-2.5 gap-7 text-[0.950rem] 
-    text-gray-600 "
+      className="flex px-8 mt-2.5 py-2.5 gap-3 text-[0.950rem] 
+    text-gray-600 hover:cursor-default border-t-2 border-b-2 border-sky-300 bg-sky-100"
     >
-      <a className="hover:text-sky-500" href="">
+      <Link to="/" className="hover:text-sky-500 hover:cursor-pointer" href="">
         Inicio
-      </a>
-      <a className="hover:text-sky-500" href="">
+      </Link>
+      <span>|</span>
+      <Link
+        to="/productos"
+        className="hover:text-sky-500 hover:cursor-pointer"
+        href=""
+      >
         Productos
-      </a>
-      <a className="hover:text-sky-500" href="">
-        Novedades
-      </a>
-      <a className="hover:text-sky-500" href="">
+      </Link>
+      <span>|</span>
+      <Link
+        to="/atencion-al-cliente"
+        className="hover:text-sky-500 hover:cursor-pointer"
+      >
         Atención al cliente
+      </Link>
+      <span>|</span>
+      <a className="hover:text-sky-500 hover:cursor-pointer" href="">
+        Contactanos
       </a>
     </nav>
   );
