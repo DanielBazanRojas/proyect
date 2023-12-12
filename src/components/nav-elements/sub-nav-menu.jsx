@@ -25,9 +25,13 @@ const SubNavMenu = () => {
         Atención al cliente
       </Link>
       <span>|</span>
-      <a className="hover:text-sky-500 hover:cursor-pointer" href="">
+      <Link
+        to="/contactanos"
+        className="hover:text-sky-500 hover:cursor-pointer"
+        href=""
+      >
         Contactanos
-      </a>
+      </Link>
     </nav>
   );
 };
